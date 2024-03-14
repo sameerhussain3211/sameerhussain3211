@@ -30,7 +30,7 @@ As an AI enthusiast and developer, I'm continuously expanding my skill set to st
 
 - Web Development (React) 
 - Backend (Node , Express)
-- Machine learing and computer vision
+- Machine learning and computer vision
 
 ## 📫 Let's Connect
 
