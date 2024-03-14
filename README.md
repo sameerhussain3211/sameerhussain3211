@@ -18,7 +18,7 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 
 - ### project Management:
   
-    [![My Skills](https://skillicons.dev/icons?i=git,github,jira,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,JIRA,figma)](https://skillicons.dev)
 
 <br>
 
