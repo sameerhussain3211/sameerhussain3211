@@ -6,7 +6,10 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 
 ## 💻 Tech Stack
 
+- ### Languages
   
+  [![My Skills](https://skillicons.dev/icons?i=java,python,dart,js,c)](https://skillicons.dev)
+
 - ### Mobile Development
   
   [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
@@ -14,12 +17,11 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 - ### Web Development
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-   https://iconduck.com/icons/240313/jira
-  
+   
 
-- ### project Management:
+- ### Version Control:
   
-    [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <br>
 
