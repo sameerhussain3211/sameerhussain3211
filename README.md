@@ -14,11 +14,12 @@ With expertise in Flutter, React, React Native, and Python, I enjoy building inn
 - ### Web Development
 
    [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+   https://iconduck.com/icons/240313/jira
   
 
 - ### project Management:
   
-    [![My Skills](https://skillicons.dev/icons?i=git,github,JiraSoftware,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 <br>
 
